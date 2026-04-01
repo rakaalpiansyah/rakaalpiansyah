@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:000000,40:0f2027,100:00F7FF&text=RAKA%20ALPIANSYAH&fontSize=62&fontAlignY=35&desc=Software%20Engineer%20%7C%20Clean%20Architecture&descAlignY=60&descSize=22&fontColor=00E0FF&animation=fadeIn" width="100%"/>
+  <img src="https://image-placeholder.com/g/1200x300?text=A+Custom+3D+Wireframe+Grid+with+a+GLITCHED+'RAKA+ALPIANSYAH'%0ASoftware+Engineer+%7C+Clean+Architecture&color=000000,40:0f2027,100:00F7FF&font=TechClean&effect=glitch&cyanMagentaShift=true&desc=Software%20Engineer%20%7C%20Clean%20Architecture&descSize=22&fontColor=00E0FF" width="100%"/>
 </div>
 
 <p align="center">

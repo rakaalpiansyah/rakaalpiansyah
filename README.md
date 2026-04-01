@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:000000,30:0a0f1c,60:1a2a3a,100:00E0FF&text=RAKA%20ALPIANSYAH&fontSize=64&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Specialist&descAlignY=60&descSize=22&fontColor=7DF9FF&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:000000,40:0f2027,100:00F7FF&text=RAKA%20ALPIANSYAH&fontSize=62&fontAlignY=35&desc=Software%20Engineer%20%7C%20Clean%20Architecture&descAlignY=60&descSize=22&fontColor=00E0FF&animation=fadeIn" width="100%"/>
 </div>
 
 <p align="center">
@@ -8,129 +8,72 @@
 
 <p align="center">
   <a href="mailto:rakaalpiansyah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00E0FF"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00E0FF&labelColor=000000"/>
   </a>
   <a href="https://instagram.com/vcols_">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00E0FF"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00E0FF&labelColor=000000"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Rakaalpiansyah&style=for-the-badge&color=00E0FF&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Rakaalpiansyah&style=for-the-badge&color=00E0FF&label=SYSTEM+ACCESS&labelColor=000000"/>
 </p>
 
 ---
 
-<table align="center">
-<tr>
-<td width="45%" valign="top">
-
-## 🧠 About Me
-
-* 🎓 Informatics Engineering @ **UIN Sunan Gunung Djati**
-* 💼 Focus: **Backend Systems & Mobile Apps**
-* 🔥 Passionate about building **scalable products**
-* 🏆 Built a **national-winning platform**
-* ☁️ Exploring **DevOps & Cloud Architecture**
-
-> *"Great software is built with logic, but perfected with intuition."*
-
-</td>
-
-<td width="55%" valign="top">
-
-## ⚒️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,php,laravel,fastapi&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,vue,bootstrap,python,cs&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase,docker,nginx&theme=dark" />
-</p>
-
-</td>
-</tr>
+<table align="center" style="border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none;">
+    <td width="45%" valign="top" style="border: none;">
+      <h2 style="color: #00E0FF;">🧠 About_Me</h2>
+      <ul style="list-style-type: '⚡ ';">
+        <li>🎓 Informatics Engineering @ <b>UIN Sunan Gunung Djati</b></li>
+        <li>💼 Focus: <b>Backend Systems & Mobile Apps</b></li>
+        <li>🔥 Passionate about building <b>scalable products</b></li>
+        <li>🏆 Built a <b>national-winning</b> waste management platform</li>
+        <li>⚙️ Currently exploring <b>DevOps & Cloud Arch</b></li>
+      </ul>
+      <br>
+      <p><i>"Great software is built with logic, but perfected with intuition."</i></p>
+    </td>
+    <td width="55%" valign="top" style="border: none;">
+      <h2 align="center" style="color: #00E0FF;">⚒️ Tech_Stack</h2>
+      <div align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,php,laravel,fastapi&theme=dark" />
+        </a>
+        <br/><br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,react,nextjs,vue,bootstrap,python,cs&theme=dark" />
+        </a>
+        <br/><br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase,docker,nginx&theme=dark" />
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🖥️ System Terminal
-
-```bash
-> whoami
-Raka Alpiansyah
-
-> role
-Backend Engineer & Mobile Developer
-
-> stack
-Laravel, FastAPI, Flutter, React
-
-> focus
-Building scalable systems & clean architecture
-
-> status
-Learning DevOps & Cloud Engineering 🚀
-```
-
----
-
-## 💼 Experience & Case Study
-
-### 🏆 Waste Management Platform (National Winner)
-
-* Built a scalable web platform for waste management
-* Designed RESTful APIs for real-time data processing
-* Implemented clean architecture for maintainability
-* Optimized database performance for large datasets
-
-**Tech Stack:** Laravel, MySQL, REST API
-
----
-
-### 🛒 E-Commerce Backend System
-
-* Developed secure payment gateway integration
-* Built modular backend with scalable architecture
-* Integrated logistics & third-party APIs
-* Ensured high performance under load
-
-**Tech Stack:** Laravel, PostgreSQL, Docker
-
----
-
-## 📊 Analytics & Activity
-
+<h2 align="center" style="color: #00E0FF;">📊 Analytics_&_Activity</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakaalpiansyah&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E0FF&icon_color=00E0FF&text_color=A8EFFF"/>
-  <img src="https://streak-stats.demolab.com?user=Rakaalpiansyah&theme=tokyonight&hide_border=true&ring=00E0FF&fire=00E0FF&currStreakLabel=00E0FF"/>
+  <img src="https://streak-stats.demolab.com?user=Rakaalpiansyah&theme=tokyonight&hide_border=true&background=0D1117&ring=00E0FF&fire=00E0FF&currStreakLabel=00E0FF" height="195"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakaalpiansyah&layout=compact&theme=tokyonight&hide_border=true&title_color=00E0FF&text_color=A8EFFF"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakaalpiansyah&theme=tokyo-night&hide_border=true&line=00E0FF&color=00E0FF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakaalpiansyah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E0FF&line=00E0FF&point=FFFFFF&area=true" width="100%"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
+<h2 align="center" style="color: #00E0FF;">🐍 Contribution_Snake</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rakaalpiansyah/Rakaalpiansyah/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Rakaalpiansyah/Rakaalpiansyah/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rakaalpiansyah/Rakaalpiansyah/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rakaalpiansyah/Rakaalpiansyah/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
----
-
-## 🧠 Dev Quote
+<br>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=00E0FF&background_color=0D1117&hide_border=true"/>
 </p>

@@ -1,5 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,30:0f2027,100:00F7FF&text=RAKA%20ALPIANSYAH&fontSize=70&fontAlignY=35&fontColor=00E0FF&animation=twinkling&desc=Software%20Engineer%20%7C%20Clean%20Architecture&descAlignY=60&descSize=22&stroke=00fbff&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320
+  &color=0:000000,20:0a0f1c,50:111927,80:0ff0fc,100:00eaff
+  &text=RAKA%20ALPIANSYAH
+  &fontSize=65
+  &fontColor=00f7ff
+  &fontAlignY=35
+  &animation=twinkling
+  &desc=Software%20Engineer%20%7C%20Clean%20Architecture%20%7C%20System%20Design
+  &descAlignY=60
+  &descSize=20
+  &stroke=00f0ff
+  &strokeWidth=2" width="100%"/>
 </div>
 
 <p align="center">

@@ -1,21 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:0f2027,100:00F7FF&text=RAKA%20ALPIANSYAH&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Clean%20Architecture&descAlignY=60&descSize=22&fontColor=00F7FF&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:000000,40:0f2027,70:1f3b4d,100:00F7FF&text=RAKA%20ALPIANSYAH&fontSize=62&fontAlignY=35&desc=Software%20Engineer%20%7C%20Clean%20Architecture&descAlignY=60&descSize=22&fontColor=00E0FF&animation=fadeIn" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Mobile+Developer;Clean+Architecture;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&color=00E0FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Mobile+Developer;Clean+Architecture;Building+Scalable+Systems" />
 </p>
 
 <p align="center">
   <a href="mailto:rakaalpiansyah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00E0FF"/>
   </a>
   <a href="https://instagram.com/vcols_">
-    <img src="https://img.shields.io/badge/Instagram-1A1B26?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00E0FF"/>
   </a>
-  <a href="https://github.com/Rakaalpiansyah">
-    <img src="https://komarev.com/ghpvc/?username=Rakaalpiansyah&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS&labelColor=1A1B26"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Rakaalpiansyah&style=for-the-badge&color=00E0FF&label=PROFILE+VIEWS"/>
 </p>
 
 ---

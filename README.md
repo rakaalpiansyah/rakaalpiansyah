@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Raka Alpiansyah</h1>
-<h3 align="center">A passionate Software Developer from Indonesia 🇮🇩</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Raka+Alpiansyah;Passionate+Software+Developer;Informatics+Engineering+Student" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="mailto:rakaalpiansyah@gmail.com">
@@ -57,13 +58,6 @@ I am an **Informatics Engineering** student at **UIN Sunan Gunung Djati Bandung*
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-**AI & Machine Learning**<br>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
 **DevOps, Tools & Infrastructure**<br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -75,35 +69,38 @@ I am an **Informatics Engineering** student at **UIN Sunan Gunung Djati Bandung*
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakaalpiansyah&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Rakaalpiansyah&theme=dark&hide_border=false" height="165" alt="GitHub Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rakaalpiansyah&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+
+<br>
+
+## 📊 Analytics & Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rakaalpiansyah&theme=dracula&hide_border=true&border_radius=10" height="195" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakaalpiansyah&theme=dark&hide_border=false&layout=compact" height="165" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakaalpiansyah&bg_color=282a36&color=ff79c6&line=bd93f9&point=ffb86c&area=true&hide_border=true&hide_title=true" alt="Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakaalpiansyah&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Programming Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Programming Quote" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/Rakaalpiansyah">
-    <img src="https://komarev.com/ghpvc/?username=Rakaalpiansyah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Rakaalpiansyah&label=Profile%20Views&color=bd93f9&style=flat" alt="Profile Views" />
   </a>
 </div>

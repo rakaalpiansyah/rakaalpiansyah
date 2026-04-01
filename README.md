@@ -1,11 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Raka%20Alpiansyah&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20Clean%20Architecture%20Enthusiast&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1A1B26,24283B,58A6FF&height=220&section=header&text=Raka%20Alpiansyah&fontSize=55&fontAlignY=35&desc=Software%20Engineer%20%7C%20Clean%20Architecture%20Enthusiast&descAlignY=55&descSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <p align="center">
-  <a href="mailto:rakaalpiansyah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/vcols_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/Rakaalpiansyah"><img src="https://komarev.com/ghpvc/?username=Rakaalpiansyah&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/></a>
+  <a href="mailto:rakaalpiansyah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  </a>
+  <a href="https://instagram.com/vcols_">
+    <img src="https://img.shields.io/badge/Instagram-1A1B26?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+  </a>
+  <a href="https://github.com/Rakaalpiansyah">
+    <img src="https://komarev.com/ghpvc/?username=Rakaalpiansyah&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS&labelColor=1A1B26"/>
+  </a>
 </p>
 
 ---

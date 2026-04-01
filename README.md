@@ -45,11 +45,9 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+<h2 align="center">🌟 Top Languages</h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rakaalpiansyah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakaalpiansyah&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Top Languages" />
 </p>
 
 ---

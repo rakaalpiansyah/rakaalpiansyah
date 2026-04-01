@@ -1,80 +1,51 @@
-<h1 align="center">Raka Alpiansyah</h1>
+<h1 align="center">Hi 👋, I'm Raka Alpiansyah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Fullstack+Engineer;Mobile+%26+Backend+Specialist;Building+Scalable+Systems;Clean+Code+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Developer;Mobile+%26+Web+Enthusiast;Clean+Code+Advocate" />
 </p>
 
-<p align="center">
-  <b>🚀 Software Engineer from Indonesia</b><br>
-  <i>Focused on scalable backend systems & high-performance mobile apps</i>
-</p>
+<h3 align="center">🚀 Software Developer from Indonesia 🇮🇩</h3>
 
 ---
 
-## ⚡ Tech Identity
-
-```diff
-+ Backend-first mindset
-+ API & System Design Specialist
-+ Mobile App Developer (Flutter)
-+ Clean Architecture Enthusiast
-```
-
----
-
-## 🧠 About Me
-
-* 🎓 Informatics Engineering — UIN Sunan Gunung Djati Bandung
-* 🏗️ Building **scalable backend systems (API, payment, logistics)**
-* 📱 Developing **cross-platform mobile apps (Flutter)**
-* 🏆 Created a **national-winning digital platform**
-* ☁️ Currently diving into **Cloud & DevOps (CI/CD, Docker)**
-
----
-
-## 🌐 Reach Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:rakaalpiansyah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/vcols_">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⚒️ Core Stack
+## 💫 About Me
+
+* 🎓 Informatics Engineering @ UIN Sunan Gunung Djati Bandung
+* 🔭 Building scalable **Web & Mobile Apps**
+* 🌱 Learning **Clean Architecture & DevOps**
+* 💬 Ask me about: `Laravel`, `Flutter`, `API`, `Database`
+* 🏆 Built a national-level winning waste management platform
+
+---
+
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,flutter,react,nextjs,fastapi" />
-</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,docker" />
+<img src="https://skillicons.dev/icons?i=dart,java,python,php,javascript,kotlin,cs" /><br> <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,vue,bootstrap" /><br> <img src="https://skillicons.dev/icons?i=laravel,fastapi,docker,nginx,vercel,firebase,supabase" />
+
 </p>
 
 ---
 
-## 🏆 Highlight Projects
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Rakaalpiansyah">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakaalpiansyah&repo=YOUR_BEST_PROJECT&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Rakaalpiansyah">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakaalpiansyah&repo=YOUR_SECOND_PROJECT&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
----
-
-## 📊 Engineering Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakaalpiansyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img src="https://streak-stats.demolab.com?user=Rakaalpiansyah&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakaalpiansyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Rakaalpiansyah&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
@@ -83,7 +54,7 @@
 
 ---
 
-## 📈 Contribution Heatmap
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakaalpiansyah&theme=tokyo-night&hide_border=true"/>
@@ -91,27 +62,16 @@
 
 ---
 
-## 🐍 Contribution Snake (Auto Generated)
+## ✨ Quote
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🧠 Dev Philosophy
-
-```text
-"Software is not just code.
-It’s a system of thinking, scaling, and solving real-world problems."
-```
-
----
-
-## 👁️ Visitors
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rakaalpiansyah&style=for-the-badge&color=0A66C2"/>
+  <img src="https://komarev.com/ghpvc/?username=Rakaalpiansyah&style=for-the-badge&color=blue"/>
 </p>
-
----

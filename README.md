@@ -45,13 +45,6 @@
 
 ---
 
-<h2 align="center">🌟 Top Languages</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakaalpiansyah&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 <h2 align="center">📊 Analytics & Activity</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rakaalpiansyah&theme=tokyonight&hide_border=true&background=1A1B26" height="195"/>

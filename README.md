@@ -1,4 +1,17 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,30:0f2027,100:00F7FF&text=RAKA%20ALPIANSYAH&fontSize=70&fontAlignY=35&fontColor=00E0FF&animation=twinkling&desc=Software%20Engineer%20%7C%20Clean%20Architecture&descAlignY=60&descSize=22&stroke=00fbff&strokeWidth=1" width="100%"/> </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320
+  &color=0:000000,20:020617,40:0f172a,70:0ea5e9,100:00f7ff
+  &text=RAKA%20ALPIANSYAH
+  &fontSize=65
+  &fontAlignY=35
+  &fontColor=00E0FF
+  &animation=twinkling
+  &desc=Software%20Engineer%20%7C%20Clean%20Architecture%20%7C%20System%20Design
+  &descAlignY=60
+  &descSize=20
+  &stroke=00f0ff
+  &strokeWidth=2" width="100%"/>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&color=00E0FF&center=true&vCenter=true&width=700&lines=BACKEND+ENGINEER;MOBILE+DEVELOPER;CLEAN+ARCHITECTURE;BUILDING+SCALABLE+SYSTEMS" />

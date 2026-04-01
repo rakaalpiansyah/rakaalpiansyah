@@ -45,41 +45,22 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
-  <a href="https://github.com/Rakaalpiansyah/YOUR_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakaalpiansyah&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=1A1B26"/>
-  </a>
-  <a href="https://github.com/Rakaalpiansyah/YOUR_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakaalpiansyah&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=1A1B26"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rakaalpiansyah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 Analytics & Activity</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakaalpiansyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1A1B26" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Rakaalpiansyah&theme=tokyonight&hide_border=true&background=1A1B26" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Rakaalpiansyah&theme=tokyonight&hide_border=true&background=1A1B26" height="195"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakaalpiansyah&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26" height="165"/>
-</p>
-
----
-
-<h2 align="center">📈 Contribution Activity</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakaalpiansyah&theme=tokyo-night&hide_border=true&bg_color=1A1B26" width="100%"/>
 </p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rakaalpiansyah/Rakaalpiansyah/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rakaalpiansyah/Rakaalpiansyah/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rakaalpiansyah/Rakaalpiansyah/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ---
 

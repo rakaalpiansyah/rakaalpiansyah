@@ -78,13 +78,20 @@ I am an **Informatics Engineering** student at **UIN Sunan Gunung Djati Bandung*
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakaalpiansyah&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rakaalpiansyah&theme=dark&hide_border=false" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakaalpiansyah&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Rakaalpiansyah&theme=dark&hide_border=false" height="165" alt="GitHub Streak" />
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakaalpiansyah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=rakaalpiansyah&limit=5&theme=dark&combine_all_yearly_contributions=true" height="165" alt="Top Contributed Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakaalpiansyah&theme=dark&hide_border=false&layout=compact" height="165" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakaalpiansyah&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Activity Graph" />
 </div>
 
 <br>
@@ -96,7 +103,7 @@ I am an **Informatics Engineering** student at **UIN Sunan Gunung Djati Bandung*
 <br>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Rakaalpiansyah&icon=0&color=0" alt="Profile Views" />
+  <a href="https://github.com/Rakaalpiansyah">
+    <img src="https://komarev.com/ghpvc/?username=Rakaalpiansyah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </div>

@@ -8,11 +8,16 @@ on:
     branches:
       - main
       - master
+      - raka
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    # TAMBAHKAN INI: Memberikan izin untuk menulis ke repositori
+    permissions:
+      contents: write
+      
     steps:
       - uses: actions/checkout@v3
       
@@ -20,7 +25,6 @@ jobs:
         uses: yoshi3891003/github-profile-3d-contrib@0.7.1
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Kita gunakan tema 'dark' agar selaras dengan tema Cyber Anda
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
@@ -29,5 +33,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
+          # Menghindari error jika tidak ada perubahan data
           git commit -m "Update 3D Contribution Graph" || exit 0
           git push

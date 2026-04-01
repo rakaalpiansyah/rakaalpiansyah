@@ -1,94 +1,81 @@
 <div align="center">
-  <h1>👋 Welcome to My GitHub Profile!</h1>
-  <p><strong>Full Stack Developer | Open Source Enthusiast | Tech Explorer</strong></p>
-  
-  [![GitHub followers](https://img.shields.io/github/followers/rakaalpiansyah?logo=github&style=for-the-badge)](https://github.com/rakaalpiansyah)
-  [![GitHub Stars](https://img.shields.io/github/stars/rakaalpiansyah?style=for-the-badge)](https://github.com/rakaalpiansyah)
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:0f2027,100:00F7FF&text=RAKA%20ALPIANSYAH&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Clean%20Architecture&descAlignY=60&descSize=22&fontColor=00F7FF&animation=fadeIn" width="100%"/>
 </div>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Mobile+Developer;Clean+Architecture;Building+Scalable+Systems" />
+</p>
 
-## 🚀 About Me
-
-Hi! I'm a passionate developer dedicated to building impactful solutions through clean code and innovative technology. I love collaborating with others and continuously learning new skills.
-
-- 🔭 Currently working on **[Project Name]**
-- 🌱 Learning **[Technology/Skill]**
-- 💬 Ask me about **[Topic]**
-- ⚡ Fun fact: **[Your fun fact]**
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <a href="mailto:rakaalpiansyah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  </a>
+  <a href="https://instagram.com/vcols_">
+    <img src="https://img.shields.io/badge/Instagram-1A1B26?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+  </a>
+  <a href="https://github.com/Rakaalpiansyah">
+    <img src="https://komarev.com/ghpvc/?username=Rakaalpiansyah&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS&labelColor=1A1B26"/>
+  </a>
+</p>
 
 ---
 
-## 🏆 Featured Projects
-
-### 📌 [Project Name](https://github.com/rakaalpiansyah/project-name)
-**Description**: Brief description of what this project does and why it's awesome.
-- 🛠️ Built with: React, Node.js, MongoDB
-- ⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/rakaalpiansyah/project-name?style=flat-square)
-
-### 📌 [Another Project](https://github.com/rakaalpiansyah/another-project)
-**Description**: Another amazing project description.
-- 🛠️ Built with: Vue.js, Python, PostgreSQL
+<table align="center" style="border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none;">
+    <td width="45%" valign="top" style="border: none;">
+      <h2>🧠 About Me</h2>
+      <ul>
+        <li>🎓 Informatics Engineering @ <b>UIN Sunan Gunung Djati</b></li>
+        <li>💼 Focus: <b>Backend Systems & Mobile Apps</b></li>
+        <li>🔥 Passionate about building <b>scalable products</b></li>
+        <li>🏆 Built a <b>national-winning</b> waste management platform</li>
+        <li>⚙️ Currently exploring <b>DevOps & Cloud Arch</b></li>
+      </ul>
+      <br>
+      <i>"Great software is built with logic, but perfected with intuition."</i>
+    </td>
+    <td width="55%" valign="top" style="border: none;">
+      <h2>⚒️ Tech Stack</h2>
+      <div align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,php,laravel,fastapi&perline=7" />
+        </a>
+        <br/><br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,react,nextjs,vue,bootstrap,python,cs&perline=7" />
+        </a>
+        <br/><br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase,docker,nginx&perline=7" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 Analytics & Activity</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rakaalpiansyah&theme=tokyonight&hide_border=true&background=1A1B26" height="195"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakaalpiansyah&theme=tokyo-night&hide_border=true&bg_color=1A1B26" width="100%"/>
+</p>
 
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakaalpiansyah&theme=github_dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakaalpiansyah&layout=compact&theme=github_dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rakaalpiansyah/Rakaalpiansyah/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rakaalpiansyah/Rakaalpiansyah/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rakaalpiansyah/Rakaalpiansyah/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
----
+<br>
 
-## 🎯 Goals & Interests
-
-- 🎓 Continuously learning new technologies and best practices
-- 🤝 Contributing to open-source projects
-- 💡 Building products that solve real-world problems
-- 📚 Sharing knowledge through writing and mentoring
-
----
-
-## 📞 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
-
-<div align="center">
-  <strong>✨ Let's build something amazing together! ✨</strong>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=rakaalpiansyah&color=blueviolet&style=flat-square)
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p> 

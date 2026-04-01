@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=120&lines=Raka+Alpiansyah;Software+Engineer;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1A1B26,24283B,58A6FF&height=220&section=header&text=Raka%20Alpiansyah&fontSize=55&fontAlignY=35&desc=Software%20Engineer%20%7C%20Clean%20Architecture%20Enthusiast&descAlignY=55&descSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <p align="center">
@@ -13,6 +13,7 @@
     <img src="https://komarev.com/ghpvc/?username=Rakaalpiansyah&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS&labelColor=1A1B26"/>
   </a>
 </p>
+
 ---
 
 <table align="center" style="border-collapse: collapse; border: none; background: transparent;">

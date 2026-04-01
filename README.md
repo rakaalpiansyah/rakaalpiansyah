@@ -55,7 +55,7 @@
 
 <h2 align="center" style="color: #00E0FF;">📊 Analytics_&_Activity</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakaalpiansyah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E0FF&icon_color=00E0FF&text_color=FFFFFF&include_all_commits=true&count_private=true" height="195"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rakaalpiansyah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E0FF&icon_color=00E0FF&text_color=FFFFFF&include_all_commits=true&count_private=true" height="195"/>
   <img src="https://streak-stats.demolab.com?user=Rakaalpiansyah&theme=tokyonight&hide_border=true&background=0D1117&ring=00E0FF&fire=00E0FF&currStreakLabel=00E0FF" height="195"/>
 </p>
 

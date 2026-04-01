@@ -18,34 +18,26 @@
 
 ---
 
-<table align="center" style="border-collapse: collapse; border: none; background: transparent;">
-  <tr style="border: none;">
-    <td width="45%" valign="top" style="border: none;">
-      <h2 style="color: #00E0FF;">🧠 About_Me</h2>
-      <ul style="list-style-type: '⚡ ';">
-        <li>🎓 Informatics Engineering @ <b>UIN Sunan Gunung Djati</b></li>
-        <li>💼 Focus: <b>Backend Systems & Mobile Apps</b></li>
-        <li>🔥 Passionate about building <b>scalable products</b></li>
-        <li>🏆 Built a <b>national-winning</b> waste management platform</li>
-        <li>⚙️ Currently exploring <b>DevOps & Cloud Arch</b></li>
-      </ul>
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h2 style="color: #00E0FF; border-bottom: 1px solid #1f3b4d;">🧠 About_Me</h2>
+      <p>
+        ⚡ Informatics Engineering @ <b>UIN Sunan Gunung Djati</b><br>
+        ⚡ Focus: <b>Backend Systems & Mobile Apps</b><br>
+        ⚡ Passionate about building <b>scalable products</b><br>
+        ⚡ Built a <b>national-winning</b> waste management platform<br>
+        ⚡ Currently exploring <b>DevOps & Cloud Arch</b>
+      </p>
       <br>
       <p><i>"Great software is built with logic, but perfected with intuition."</i></p>
     </td>
-    <td width="55%" valign="top" style="border: none;">
-      <h2 align="center" style="color: #00E0FF;">⚒️ Tech_Stack</h2>
+    <td width="45%" valign="top">
+      <h2 align="center" style="color: #00E0FF; border-bottom: 1px solid #1f3b4d;">⚒️ Tech_Stack</h2>
       <div align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,php,laravel,fastapi&theme=dark" />
-        </a>
-        <br/><br/>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=js,react,nextjs,vue,bootstrap,python,cs&theme=dark" />
-        </a>
-        <br/><br/>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase,docker,nginx&theme=dark" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,php,laravel,fastapi&theme=dark" /><br><br>
+        <img src="https://skillicons.dev/icons?i=js,react,nextjs,vue,bootstrap,python,cs&theme=dark" /><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase,docker,nginx&theme=dark" />
       </div>
     </td>
   </tr>

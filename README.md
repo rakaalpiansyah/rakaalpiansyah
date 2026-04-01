@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://image-placeholder.com/g/1200x300?text=A+Custom+3D+Wireframe+Grid+with+a+GLITCHED+'RAKA+ALPIANSYAH'%0ASoftware+Engineer+%7C+Clean+Architecture&color=000000,40:0f2027,100:00F7FF&font=TechClean&effect=glitch&cyanMagentaShift=true&desc=Software%20Engineer%20%7C%20Clean%20Architecture&descSize=22&fontColor=00E0FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,30:0f2027,100:00F7FF&text=RAKA%20ALPIANSYAH&fontSize=70&fontAlignY=35&fontColor=00E0FF&animation=twinkling&desc=Software%20Engineer%20%7C%20Clean%20Architecture&descAlignY=60&descSize=22&stroke=00fbff&strokeWidth=1" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&color=00E0FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Mobile+Developer;Clean+Architecture;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&color=00E0FF&center=true&vCenter=true&width=700&lines=BACKEND+ENGINEER;MOBILE+DEVELOPER;CLEAN+ARCHITECTURE;BUILDING+SCALABLE+SYSTEMS" />
 </p>
 
 <p align="center">

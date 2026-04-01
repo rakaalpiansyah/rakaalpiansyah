@@ -23,7 +23,7 @@
     <td width="55%" valign="top" style="border: none;">
       <h2 style="color: #00E0FF;">🧠 About_Me</h2>
       <ul>
-        <li>🎓 Informatics Engineering @ <b>UIN Sunan Gunung Djati</b></li>
+        <li>🎓 Informatics Engineering</li>
         <li>💼 Focus: <b>Backend Systems & Mobile Apps</b></li>
         <li>🔥 Passionate about building <b>scalable products</b></li>
         <li>🏆 Built a <b>national-winning</b> waste management platform</li>

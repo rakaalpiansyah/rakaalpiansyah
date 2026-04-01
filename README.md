@@ -47,7 +47,7 @@
 
 <h2 align="center">🌟 Top Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakaalpiansyah&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakaalpiansyah&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---

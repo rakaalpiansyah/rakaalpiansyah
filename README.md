@@ -62,7 +62,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakaalpiansyah&theme=tokyo-night&hide_border=true&bg_color=1A1B26" width="100%"/>
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakaalpiansyah&theme=tokyonight)
 
 ---
 

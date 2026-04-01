@@ -65,7 +65,7 @@
 
 <h2 align="center" style="color: #00E0FF;">🌐 Digital_Infrastructure_3D</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rakaalpiansyah/Rakaalpiansyah/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
 
 ---

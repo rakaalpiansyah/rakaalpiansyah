@@ -1,22 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Raka%20Alpiansyah&fontSize=60&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20Backend%20Specialist&descAlignY=60&descSize=22&fontColor=00F7FF&animation=fadeIn" width="100%"/>
-
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Mobile+App+Developer;Clean+Architecture;Building+Scalable+Systems" />
-</p>
-
-<p align="center">
-  <a href="mailto:rakaalpiansyah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
-  </a>
-  <a href="https://instagram.com/vcols_">
-    <img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Rakaalpiansyah&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:000000,50:0f2027,100:00F7FF&text=Raka%20Alpiansyah&fontSize=60&fontColor=00F7FF&animation=blink" width="100%"/>
 
 
 ---

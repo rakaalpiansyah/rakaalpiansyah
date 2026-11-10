@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228 52" width="228" height="52">
-  <rect x="1" y="5" width="226" height="45" rx="10" fill="#050608" stroke="#52525b" stroke-width="1" stroke-opacity="0.7"/>
-  <rect x="1" y="1" width="226" height="45" rx="10" fill="#10131a" stroke="#27272a" stroke-width="1"/>
-  <line x1="14" y1="1" x2="214" y2="1" stroke="#a1a1aa" stroke-width="1.5" stroke-opacity="0.75"/>
-  <rect x="11" y="11" width="26" height="26" rx="6" fill="#161922" stroke="#27272a" stroke-width="1"/>
-  <rect x="16" y="16" width="16" height="16" rx="4.5" fill="none" stroke="#a1a1aa" stroke-width="1.6"/><circle cx="24" cy="24" r="3.8" fill="none" stroke="#a1a1aa" stroke-width="1.5"/><circle cx="28.5" cy="19.5" r="1" fill="#a1a1aa"/>
-  <text x="46" y="21" fill="#71717a" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="700" letter-spacing="0.8">INSTAGRAM</text>
-  <text x="46" y="36" fill="#f4f4f5" font-family="'Space Grotesk', 'Inter', sans-serif" font-size="12.5" font-weight="600">@vcols_</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 52" width="100%" height="100%">
+  <rect x="1" y="1" width="288" height="50" rx="12" fill="#0b0f17" stroke="#1e293b" stroke-width="1.2"/>
+  <line x1="18" y1="1" x2="110" y2="1" stroke="#60a5fa" stroke-width="2" stroke-opacity="0.85"/>
+  <rect x="12" y="12" width="28" height="28" rx="8" fill="#111827" stroke="#1e293b" stroke-width="1"/>
+  <rect x="18" y="18" width="16" height="16" rx="4.5" fill="none" stroke="#60a5fa" stroke-width="1.6"/><circle cx="26" cy="26" r="3.8" fill="none" stroke="#60a5fa" stroke-width="1.5"/><circle cx="30.5" cy="21.5" r="1" fill="#60a5fa"/>
+  <text x="50" y="22" fill="#64748b" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="9" font-weight="600" letter-spacing="0.6">INSTAGRAM PROFILE</text>
+  <text x="50" y="38" fill="#f1f5f9" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700">@vcols_</text>
+  <path d="M 266 22 L 272 26 L 266 30" fill="none" stroke="#475569" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

@@ -1,162 +1,158 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 378" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 404" width="100%" height="100%">
   <defs>
     <linearGradient id="archBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#07090d"/>
-      <stop offset="100%" stop-color="#0a0d14"/>
+      <stop offset="0%" stop-color="#0b0f17"/>
+      <stop offset="100%" stop-color="#0f172a"/>
     </linearGradient>
     <pattern id="gridPat" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.025"/>
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94a3b8" stroke-width="0.5" stroke-opacity="0.035"/>
     </pattern>
   </defs>
-  <rect x="2" y="2" width="1196" height="374" rx="18" fill="url(#archBg)" stroke="#27272a" stroke-width="1.2"/>
-  <rect x="2" y="2" width="1196" height="374" rx="18" fill="url(#gridPat)"/>
+  <rect x="1.5" y="1.5" width="1197" height="401" rx="16" fill="url(#archBg)" stroke="#1e293b" stroke-width="1.5"/>
+  <rect x="1.5" y="1.5" width="1197" height="401" rx="16" fill="url(#gridPat)"/>
 
-  <text x="36" y="38" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="1.2">SYSTEM ARCHITECTURE  ·  FOUR CORE ENGINEERING DOMAINS</text>
-  <text x="36" y="62" fill="#fafafa" font-family="'Space Grotesk', 'Inter', sans-serif" font-size="22" font-weight="800" letter-spacing="-0.4">Production Stack &amp; Technical Specifications</text>
+  <text x="32" y="36" fill="#38bdf8" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="10.5" font-weight="700" letter-spacing="1">SYSTEM ARCHITECTURE  ·  CORE ENGINEERING DOMAINS</text>
+  <text x="32" y="62" fill="#f8fafc" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.3">Production Stack &amp; Technical Specifications</text>
 
   
-        <g transform="translate(36, 84)">
-          <rect x="0" y="6" width="270" height="266" rx="14" fill="#040507" stroke="#0284c7" stroke-width="1" stroke-opacity="0.6"/>
-          <rect x="0" y="0" width="270" height="266" rx="14" fill="#10131a" stroke="#27272a" stroke-width="1"/>
-          <line x1="20" y1="0" x2="250" y2="0" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.85"/>
-          <text x="20" y="34" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.7">01 / BACKEND SYSTEMS</text>
-          <text x="20" y="56" fill="#fafafa" font-family="'Space Grotesk', sans-serif" font-size="16" font-weight="700">High-Throughput API</text>
-          <line x1="20" y1="76" x2="250" y2="76" stroke="#27272a" stroke-width="1"/>
-          <text x="20" y="98" fill="#71717a" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="600" letter-spacing="0.8">PRODUCTION CAPABILITIES</text>
+        <g transform="translate(32, 84)">
+          <rect x="0" y="0" width="278" height="292" rx="14" fill="#111827" stroke="#1e293b" stroke-width="1"/>
+          <line x1="20" y1="0" x2="140" y2="0" stroke="#38bdf8" stroke-width="2"/>
+          <text x="20" y="30" fill="#38bdf8" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="9.5" font-weight="700" letter-spacing="0.5">BACKEND ARCHITECTURE</text>
+          <text x="20" y="52" fill="#f8fafc" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700">High-Throughput API</text>
+          <line x1="20" y1="72" x2="258" y2="72" stroke="#1e293b" stroke-width="1"/>
+          <text x="20" y="94" fill="#64748b" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="9" font-weight="600" letter-spacing="0.6">PRODUCTION SPECIFICATIONS</text>
           
-              <rect x="20" y="123" width="6" height="6" rx="1.5" fill="#38bdf8"/>
-              <text x="34" y="130" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">Laravel 11 &amp; PHP 8 OOP</text>
+              <circle cx="23" cy="118" r="2.8" fill="#38bdf8"/>
+              <text x="34" y="122" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Laravel 11 &amp; PHP 8 OOP</text>
             
-              <rect x="20" y="151" width="6" height="6" rx="1.5" fill="#38bdf8"/>
-              <text x="34" y="158" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">FastAPI Async Microservices</text>
+              <circle cx="23" cy="145" r="2.8" fill="#38bdf8"/>
+              <text x="34" y="149" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">FastAPI Async Microservices</text>
             
-              <rect x="20" y="179" width="6" height="6" rx="1.5" fill="#38bdf8"/>
-              <text x="34" y="186" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">RESTful API &amp; Resource Contracts</text>
+              <circle cx="23" cy="172" r="2.8" fill="#38bdf8"/>
+              <text x="34" y="176" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">RESTful Resource Contracts</text>
             
-              <rect x="20" y="207" width="6" height="6" rx="1.5" fill="#38bdf8"/>
-              <text x="34" y="214" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">KiriminAja Volumetric Shipping API</text>
+              <circle cx="23" cy="199" r="2.8" fill="#38bdf8"/>
+              <text x="34" y="203" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">KiriminAja Shipping API</text>
             
-              <rect x="20" y="235" width="6" height="6" rx="1.5" fill="#38bdf8"/>
-              <text x="34" y="242" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">Midtrans Payment Webhooks</text>
+              <circle cx="23" cy="226" r="2.8" fill="#38bdf8"/>
+              <text x="34" y="230" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Midtrans Payment Webhooks</text>
             
-              <rect x="20" y="263" width="6" height="6" rx="1.5" fill="#38bdf8"/>
-              <text x="34" y="270" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">Watzap.id &amp; Brevo SMTP (DKIM/SPF)</text>
+              <circle cx="23" cy="253" r="2.8" fill="#38bdf8"/>
+              <text x="34" y="257" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Watzap.id &amp; Brevo DKIM/SPF</text>
             
-          <polygon points="218.41,41.0 234.0,50.0 234.0,55.0 218.41,46.0" fill="#0f172a" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,50.0 249.59,41.0 249.59,46.0 234.0,55.0" fill="#090d16" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,32.0 249.59,41.0 234.0,50.0 218.41,41.0" fill="#1e293b" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/><polygon points="218.41,33.0 234.0,42.0 234.0,47.0 218.41,38.0" fill="#0f172a" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,42.0 249.59,33.0 249.59,38.0 234.0,47.0" fill="#090d16" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,24.0 249.59,33.0 234.0,42.0 218.41,33.0" fill="#1e293b" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/><polygon points="218.41,25.0 234.0,34.0 234.0,39.0 218.41,30.0" fill="#0284c7" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
-<polygon points="234.0,34.0 249.59,25.0 249.59,30.0 234.0,39.0" fill="#075985" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
-<polygon points="234.0,16.0 249.59,25.0 234.0,34.0 218.41,25.0" fill="#38bdf8" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
+          <polygon points="226.14,33.5 240.0,41.5 240.0,46.0 226.14,38.0" fill="#0f172a" stroke="#334155" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,41.5 253.86,33.5 253.86,38.0 240.0,46.0" fill="#090d16" stroke="#334155" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,25.5 253.86,33.5 240.0,41.5 226.14,33.5" fill="#1e293b" stroke="#334155" stroke-width="0.7" stroke-linejoin="round"/><polygon points="226.14,26.5 240.0,34.5 240.0,39.0 226.14,31.0" fill="#0f172a" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,34.5 253.86,26.5 253.86,31.0 240.0,39.0" fill="#090d16" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,18.5 253.86,26.5 240.0,34.5 226.14,26.5" fill="#1e293b" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/><polygon points="226.14,19.5 240.0,27.5 240.0,32.0 226.14,24.0" fill="#0284c7" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
+<polygon points="240.0,27.5 253.86,19.5 253.86,24.0 240.0,32.0" fill="#1e3a8a" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
+<polygon points="240.0,11.5 253.86,19.5 240.0,27.5 226.14,19.5" fill="#38bdf8" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
         </g>
         
-        <g transform="translate(322, 84)">
-          <rect x="0" y="6" width="270" height="266" rx="14" fill="#040507" stroke="#059669" stroke-width="1" stroke-opacity="0.6"/>
-          <rect x="0" y="0" width="270" height="266" rx="14" fill="#10131a" stroke="#27272a" stroke-width="1"/>
-          <line x1="20" y1="0" x2="250" y2="0" stroke="#10b981" stroke-width="2" stroke-opacity="0.85"/>
-          <text x="20" y="34" fill="#10b981" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.7">02 / AI &amp; VISION</text>
-          <text x="20" y="56" fill="#fafafa" font-family="'Space Grotesk', sans-serif" font-size="16" font-weight="700">Speech &amp; Deep Learning</text>
-          <line x1="20" y1="76" x2="250" y2="76" stroke="#27272a" stroke-width="1"/>
-          <text x="20" y="98" fill="#71717a" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="600" letter-spacing="0.8">PRODUCTION CAPABILITIES</text>
+        <g transform="translate(318, 84)">
+          <rect x="0" y="0" width="278" height="292" rx="14" fill="#111827" stroke="#1e293b" stroke-width="1"/>
+          <line x1="20" y1="0" x2="140" y2="0" stroke="#60a5fa" stroke-width="2"/>
+          <text x="20" y="30" fill="#60a5fa" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="9.5" font-weight="700" letter-spacing="0.5">AI &amp; COMPUTER VISION</text>
+          <text x="20" y="52" fill="#f8fafc" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700">Speech &amp; Deep Learning</text>
+          <line x1="20" y1="72" x2="258" y2="72" stroke="#1e293b" stroke-width="1"/>
+          <text x="20" y="94" fill="#64748b" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="9" font-weight="600" letter-spacing="0.6">PRODUCTION SPECIFICATIONS</text>
           
-              <rect x="20" y="123" width="6" height="6" rx="1.5" fill="#10b981"/>
-              <text x="34" y="130" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">Whisper AI Speech Transcription</text>
+              <circle cx="23" cy="118" r="2.8" fill="#60a5fa"/>
+              <text x="34" y="122" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Whisper AI Transcription</text>
             
-              <rect x="20" y="151" width="6" height="6" rx="1.5" fill="#10b981"/>
-              <text x="34" y="158" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">Multi-Speaker Audio Diarization</text>
+              <circle cx="23" cy="145" r="2.8" fill="#60a5fa"/>
+              <text x="34" y="149" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Multi-Speaker Diarization</text>
             
-              <rect x="20" y="179" width="6" height="6" rx="1.5" fill="#10b981"/>
-              <text x="34" y="186" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">4-Block Custom CNN (97.12% Acc)</text>
+              <circle cx="23" cy="172" r="2.8" fill="#60a5fa"/>
+              <text x="34" y="176" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">4-Block CNN (97.12% Acc)</text>
             
-              <rect x="20" y="207" width="6" height="6" rx="1.5" fill="#10b981"/>
-              <text x="34" y="214" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">TensorFlow Lite (~6ms CPU Edge)</text>
+              <circle cx="23" cy="199" r="2.8" fill="#60a5fa"/>
+              <text x="34" y="203" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">TFLite (~6ms CPU Edge)</text>
             
-              <rect x="20" y="235" width="6" height="6" rx="1.5" fill="#10b981"/>
-              <text x="34" y="242" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">Image Augmentation &amp; OpenCV</text>
+              <circle cx="23" cy="226" r="2.8" fill="#60a5fa"/>
+              <text x="34" y="230" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Image Augmentation &amp; OpenCV</text>
             
-              <rect x="20" y="263" width="6" height="6" rx="1.5" fill="#10b981"/>
-              <text x="34" y="270" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">Python 3.11, PyTorch &amp; NumPy</text>
+              <circle cx="23" cy="253" r="2.8" fill="#60a5fa"/>
+              <text x="34" y="257" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Python 3.11, PyTorch, NumPy</text>
             
-          <polygon points="218.41,41.0 234.0,50.0 234.0,55.0 218.41,46.0" fill="#0f172a" stroke="#10b981" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,50.0 249.59,41.0 249.59,46.0 234.0,55.0" fill="#090d16" stroke="#10b981" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,32.0 249.59,41.0 234.0,50.0 218.41,41.0" fill="#1e293b" stroke="#10b981" stroke-width="0.7" stroke-linejoin="round"/><polygon points="218.41,33.0 234.0,42.0 234.0,47.0 218.41,38.0" fill="#0f172a" stroke="#10b981" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,42.0 249.59,33.0 249.59,38.0 234.0,47.0" fill="#090d16" stroke="#10b981" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,24.0 249.59,33.0 234.0,42.0 218.41,33.0" fill="#1e293b" stroke="#10b981" stroke-width="0.7" stroke-linejoin="round"/><polygon points="218.41,25.0 234.0,34.0 234.0,39.0 218.41,30.0" fill="#059669" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
-<polygon points="234.0,34.0 249.59,25.0 249.59,30.0 234.0,39.0" fill="#075985" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
-<polygon points="234.0,16.0 249.59,25.0 234.0,34.0 218.41,25.0" fill="#10b981" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
+          <polygon points="226.14,33.5 240.0,41.5 240.0,46.0 226.14,38.0" fill="#0f172a" stroke="#334155" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,41.5 253.86,33.5 253.86,38.0 240.0,46.0" fill="#090d16" stroke="#334155" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,25.5 253.86,33.5 240.0,41.5 226.14,33.5" fill="#1e293b" stroke="#334155" stroke-width="0.7" stroke-linejoin="round"/><polygon points="226.14,26.5 240.0,34.5 240.0,39.0 226.14,31.0" fill="#0f172a" stroke="#60a5fa" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,34.5 253.86,26.5 253.86,31.0 240.0,39.0" fill="#090d16" stroke="#60a5fa" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,18.5 253.86,26.5 240.0,34.5 226.14,26.5" fill="#1e293b" stroke="#60a5fa" stroke-width="0.7" stroke-linejoin="round"/><polygon points="226.14,19.5 240.0,27.5 240.0,32.0 226.14,24.0" fill="#2563eb" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
+<polygon points="240.0,27.5 253.86,19.5 253.86,24.0 240.0,32.0" fill="#1e3a8a" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
+<polygon points="240.0,11.5 253.86,19.5 240.0,27.5 226.14,19.5" fill="#60a5fa" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
         </g>
         
-        <g transform="translate(608, 84)">
-          <rect x="0" y="6" width="270" height="266" rx="14" fill="#040507" stroke="#0284c7" stroke-width="1" stroke-opacity="0.6"/>
-          <rect x="0" y="0" width="270" height="266" rx="14" fill="#10131a" stroke="#27272a" stroke-width="1"/>
-          <line x1="20" y1="0" x2="250" y2="0" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.85"/>
-          <text x="20" y="34" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.7">03 / MOBILE &amp; WEB</text>
-          <text x="20" y="56" fill="#fafafa" font-family="'Space Grotesk', sans-serif" font-size="16" font-weight="700">Cross-Platform &amp; 3D UI</text>
-          <line x1="20" y1="76" x2="250" y2="76" stroke="#27272a" stroke-width="1"/>
-          <text x="20" y="98" fill="#71717a" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="600" letter-spacing="0.8">PRODUCTION CAPABILITIES</text>
+        <g transform="translate(604, 84)">
+          <rect x="0" y="0" width="278" height="292" rx="14" fill="#111827" stroke="#1e293b" stroke-width="1"/>
+          <line x1="20" y1="0" x2="140" y2="0" stroke="#38bdf8" stroke-width="2"/>
+          <text x="20" y="30" fill="#38bdf8" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="9.5" font-weight="700" letter-spacing="0.5">MOBILE &amp; MODERN WEB</text>
+          <text x="20" y="52" fill="#f8fafc" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700">Cross-Platform Systems</text>
+          <line x1="20" y1="72" x2="258" y2="72" stroke="#1e293b" stroke-width="1"/>
+          <text x="20" y="94" fill="#64748b" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="9" font-weight="600" letter-spacing="0.6">PRODUCTION SPECIFICATIONS</text>
           
-              <rect x="20" y="123" width="6" height="6" rx="1.5" fill="#38bdf8"/>
-              <text x="34" y="130" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">Flutter &amp; Dart (Google Play Live)</text>
+              <circle cx="23" cy="118" r="2.8" fill="#38bdf8"/>
+              <text x="34" y="122" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Flutter &amp; Dart (Play Store)</text>
             
-              <rect x="20" y="151" width="6" height="6" rx="1.5" fill="#38bdf8"/>
-              <text x="34" y="158" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">60 FPS Modular Clean Architecture</text>
+              <circle cx="23" cy="145" r="2.8" fill="#38bdf8"/>
+              <text x="34" y="149" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">60 FPS Clean Architecture</text>
             
-              <rect x="20" y="179" width="6" height="6" rx="1.5" fill="#38bdf8"/>
-              <text x="34" y="186" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">SQLite &amp; Room Local Persistence</text>
+              <circle cx="23" cy="172" r="2.8" fill="#38bdf8"/>
+              <text x="34" y="176" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">SQLite &amp; Room Persistence</text>
             
-              <rect x="20" y="207" width="6" height="6" rx="1.5" fill="#38bdf8"/>
-              <text x="34" y="214" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">Background Interval Scheduling</text>
+              <circle cx="23" cy="199" r="2.8" fill="#38bdf8"/>
+              <text x="34" y="203" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Background Timer Services</text>
             
-              <rect x="20" y="235" width="6" height="6" rx="1.5" fill="#38bdf8"/>
-              <text x="34" y="242" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">React, TypeScript &amp; Next.js</text>
+              <circle cx="23" cy="226" r="2.8" fill="#38bdf8"/>
+              <text x="34" y="230" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">React, TypeScript, Next.js</text>
             
-              <rect x="20" y="263" width="6" height="6" rx="1.5" fill="#38bdf8"/>
-              <text x="34" y="270" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">Three.js &amp; Interactive Web UI</text>
+              <circle cx="23" cy="253" r="2.8" fill="#38bdf8"/>
+              <text x="34" y="257" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Three.js &amp; Interactive UI</text>
             
-          <polygon points="218.41,41.0 234.0,50.0 234.0,55.0 218.41,46.0" fill="#0f172a" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,50.0 249.59,41.0 249.59,46.0 234.0,55.0" fill="#090d16" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,32.0 249.59,41.0 234.0,50.0 218.41,41.0" fill="#1e293b" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/><polygon points="218.41,33.0 234.0,42.0 234.0,47.0 218.41,38.0" fill="#0f172a" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,42.0 249.59,33.0 249.59,38.0 234.0,47.0" fill="#090d16" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,24.0 249.59,33.0 234.0,42.0 218.41,33.0" fill="#1e293b" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/><polygon points="218.41,25.0 234.0,34.0 234.0,39.0 218.41,30.0" fill="#0284c7" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
-<polygon points="234.0,34.0 249.59,25.0 249.59,30.0 234.0,39.0" fill="#075985" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
-<polygon points="234.0,16.0 249.59,25.0 234.0,34.0 218.41,25.0" fill="#38bdf8" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
+          <polygon points="226.14,33.5 240.0,41.5 240.0,46.0 226.14,38.0" fill="#0f172a" stroke="#334155" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,41.5 253.86,33.5 253.86,38.0 240.0,46.0" fill="#090d16" stroke="#334155" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,25.5 253.86,33.5 240.0,41.5 226.14,33.5" fill="#1e293b" stroke="#334155" stroke-width="0.7" stroke-linejoin="round"/><polygon points="226.14,26.5 240.0,34.5 240.0,39.0 226.14,31.0" fill="#0f172a" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,34.5 253.86,26.5 253.86,31.0 240.0,39.0" fill="#090d16" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,18.5 253.86,26.5 240.0,34.5 226.14,26.5" fill="#1e293b" stroke="#38bdf8" stroke-width="0.7" stroke-linejoin="round"/><polygon points="226.14,19.5 240.0,27.5 240.0,32.0 226.14,24.0" fill="#0284c7" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
+<polygon points="240.0,27.5 253.86,19.5 253.86,24.0 240.0,32.0" fill="#1e3a8a" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
+<polygon points="240.0,11.5 253.86,19.5 240.0,27.5 226.14,19.5" fill="#38bdf8" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
         </g>
         
-        <g transform="translate(894, 84)">
-          <rect x="0" y="6" width="270" height="266" rx="14" fill="#040507" stroke="#059669" stroke-width="1" stroke-opacity="0.6"/>
-          <rect x="0" y="0" width="270" height="266" rx="14" fill="#10131a" stroke="#27272a" stroke-width="1"/>
-          <line x1="20" y1="0" x2="250" y2="0" stroke="#10b981" stroke-width="2" stroke-opacity="0.85"/>
-          <text x="20" y="34" fill="#10b981" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.7">04 / BLOCKCHAIN &amp; INFRA</text>
-          <text x="20" y="56" fill="#fafafa" font-family="'Space Grotesk', sans-serif" font-size="16" font-weight="700">Consortium &amp; Cloud Ops</text>
-          <line x1="20" y1="76" x2="250" y2="76" stroke="#27272a" stroke-width="1"/>
-          <text x="20" y="98" fill="#71717a" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="600" letter-spacing="0.8">PRODUCTION CAPABILITIES</text>
+        <g transform="translate(890, 84)">
+          <rect x="0" y="0" width="278" height="292" rx="14" fill="#111827" stroke="#1e293b" stroke-width="1"/>
+          <line x1="20" y1="0" x2="140" y2="0" stroke="#60a5fa" stroke-width="2"/>
+          <text x="20" y="30" fill="#60a5fa" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="9.5" font-weight="700" letter-spacing="0.5">BLOCKCHAIN &amp; INFRA</text>
+          <text x="20" y="52" fill="#f8fafc" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700">Consortium &amp; Cloud Ops</text>
+          <line x1="20" y1="72" x2="258" y2="72" stroke="#1e293b" stroke-width="1"/>
+          <text x="20" y="94" fill="#64748b" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="9" font-weight="600" letter-spacing="0.6">PRODUCTION SPECIFICATIONS</text>
           
-              <rect x="20" y="123" width="6" height="6" rx="1.5" fill="#10b981"/>
-              <text x="34" y="130" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">Hyperledger Fabric (5-Org Network)</text>
+              <circle cx="23" cy="118" r="2.8" fill="#60a5fa"/>
+              <text x="34" y="122" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Hyperledger Fabric (5-Org)</text>
             
-              <rect x="20" y="151" width="6" height="6" rx="1.5" fill="#10b981"/>
-              <text x="34" y="158" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">4 Modular Smart Contracts (LoC)</text>
+              <circle cx="23" cy="145" r="2.8" fill="#60a5fa"/>
+              <text x="34" y="149" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">4 Smart Contracts (LoC)</text>
             
-              <rect x="20" y="179" width="6" height="6" rx="1.5" fill="#10b981"/>
-              <text x="34" y="186" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">Hyperledger Caliper Benchmarking</text>
+              <circle cx="23" cy="172" r="2.8" fill="#60a5fa"/>
+              <text x="34" y="176" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Caliper Perf Benchmarking</text>
             
-              <rect x="20" y="207" width="6" height="6" rx="1.5" fill="#10b981"/>
-              <text x="34" y="214" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">Cisco CCNA Routing &amp; Switching</text>
+              <circle cx="23" cy="199" r="2.8" fill="#60a5fa"/>
+              <text x="34" y="203" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Cisco CCNA Routing &amp; LAN</text>
             
-              <rect x="20" y="235" width="6" height="6" rx="1.5" fill="#10b981"/>
-              <text x="34" y="242" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">Linux Server Hardening &amp; Bash</text>
+              <circle cx="23" cy="226" r="2.8" fill="#60a5fa"/>
+              <text x="34" y="230" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Linux Hardening &amp; Bash</text>
             
-              <rect x="20" y="263" width="6" height="6" rx="1.5" fill="#10b981"/>
-              <text x="34" y="270" fill="#d4d4d8" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="500">Docker Multi-Stage &amp; Oracle SQL</text>
+              <circle cx="23" cy="253" r="2.8" fill="#60a5fa"/>
+              <text x="34" y="257" fill="#cbd5e1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Docker &amp; Oracle SQL Design</text>
             
-          <polygon points="218.41,41.0 234.0,50.0 234.0,55.0 218.41,46.0" fill="#0f172a" stroke="#10b981" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,50.0 249.59,41.0 249.59,46.0 234.0,55.0" fill="#090d16" stroke="#10b981" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,32.0 249.59,41.0 234.0,50.0 218.41,41.0" fill="#1e293b" stroke="#10b981" stroke-width="0.7" stroke-linejoin="round"/><polygon points="218.41,33.0 234.0,42.0 234.0,47.0 218.41,38.0" fill="#0f172a" stroke="#10b981" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,42.0 249.59,33.0 249.59,38.0 234.0,47.0" fill="#090d16" stroke="#10b981" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="234.0,24.0 249.59,33.0 234.0,42.0 218.41,33.0" fill="#1e293b" stroke="#10b981" stroke-width="0.7" stroke-linejoin="round"/><polygon points="218.41,25.0 234.0,34.0 234.0,39.0 218.41,30.0" fill="#059669" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
-<polygon points="234.0,34.0 249.59,25.0 249.59,30.0 234.0,39.0" fill="#075985" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
-<polygon points="234.0,16.0 249.59,25.0 234.0,34.0 218.41,25.0" fill="#10b981" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
+          <polygon points="226.14,33.5 240.0,41.5 240.0,46.0 226.14,38.0" fill="#0f172a" stroke="#334155" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,41.5 253.86,33.5 253.86,38.0 240.0,46.0" fill="#090d16" stroke="#334155" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,25.5 253.86,33.5 240.0,41.5 226.14,33.5" fill="#1e293b" stroke="#334155" stroke-width="0.7" stroke-linejoin="round"/><polygon points="226.14,26.5 240.0,34.5 240.0,39.0 226.14,31.0" fill="#0f172a" stroke="#60a5fa" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,34.5 253.86,26.5 253.86,31.0 240.0,39.0" fill="#090d16" stroke="#60a5fa" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="240.0,18.5 253.86,26.5 240.0,34.5 226.14,26.5" fill="#1e293b" stroke="#60a5fa" stroke-width="0.7" stroke-linejoin="round"/><polygon points="226.14,19.5 240.0,27.5 240.0,32.0 226.14,24.0" fill="#2563eb" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
+<polygon points="240.0,27.5 253.86,19.5 253.86,24.0 240.0,32.0" fill="#1e3a8a" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
+<polygon points="240.0,11.5 253.86,19.5 240.0,27.5 226.14,19.5" fill="#60a5fa" stroke="#f8fafc" stroke-width="0.6" stroke-linejoin="round"/>
         </g>
         
 </svg>

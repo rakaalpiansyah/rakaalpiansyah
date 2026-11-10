@@ -1,50 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 248" width="100%" height="100%">
-  <!-- 3D Beveled Card Base -->
-  <rect x="2" y="7" width="586" height="238" rx="16" fill="#040507" stroke="#059669" stroke-width="1.2" stroke-opacity="0.65"/>
-  <rect x="2" y="2" width="586" height="238" rx="16" fill="#0d1017" stroke="#27272a" stroke-width="1.2"/>
-  <line x1="28" y1="2" x2="562" y2="2" stroke="#10b981" stroke-width="2" stroke-opacity="0.85"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 244" width="100%" height="100%">
+  <rect x="1.5" y="1.5" width="587" height="241" rx="16" fill="#0b0f17" stroke="#1e293b" stroke-width="1.5"/>
+  <line x1="28" y1="1.5" x2="180" y2="1.5" stroke="#60a5fa" stroke-width="2"/>
 
   <!-- Category & Metric Pill -->
-  <text x="28" y="36" fill="#10b981" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.8">COMPUTER VISION  ·  EDGE DEEP LEARNING</text>
-  <rect x="366" y="19" width="196" height="24" rx="12" fill="#131722" stroke="#10b981" stroke-width="0.9" stroke-opacity="0.6"/>
-  <text x="464" y="35" text-anchor="middle" fill="#f4f4f5" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="0.5">97.12% ACC · ~6ms CPU</text>
+  <text x="28" y="36" fill="#60a5fa" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="10" font-weight="700" letter-spacing="0.8">COMPUTER VISION</text>
+  <rect x="372" y="18" width="190" height="24" rx="12" fill="#111827" stroke="#1e293b" stroke-width="1"/>
+  <text x="467" y="34" text-anchor="middle" fill="#e2e8f0" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="9.2" font-weight="600" letter-spacing="0.4">97.12% ACC · ~6ms CPU</text>
 
   <!-- Title -->
-  <text x="28" y="74" fill="#fafafa" font-family="'Space Grotesk', 'Inter', sans-serif" font-size="19.5" font-weight="800" letter-spacing="-0.3">PlantVillage AI: Crop Vision CNN</text>
+  <text x="28" y="72" fill="#f8fafc" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18.5" font-weight="800" letter-spacing="-0.2">PlantVillage AI: Crop Vision CNN</text>
 
   <!-- Description -->
-  <text x="28" y="106" fill="#a1a1aa" font-family="'Inter', -apple-system, sans-serif" font-size="12.8" font-weight="400">Custom 4-block Convolutional Neural Network diagnosing</text>
-  <text x="28" y="128" fill="#a1a1aa" font-family="'Inter', -apple-system, sans-serif" font-size="12.8" font-weight="400">plant leaf pathology across variable field lighting. Quantized</text>
-  <text x="28" y="150" fill="#a1a1aa" font-family="'Inter', -apple-system, sans-serif" font-size="12.8" font-weight="400">to TensorFlow Lite for 6ms offline CPU edge inference.</text>
+  <text x="28" y="104" fill="#94a3b8" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="400">Custom 4-block Convolutional Neural Network diagnosing</text>
+  <text x="28" y="126" fill="#94a3b8" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="400">plant leaf pathology across variable field lighting. Quantized</text>
+  <text x="28" y="148" fill="#94a3b8" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="400">to TensorFlow Lite for 6ms offline CPU edge inference.</text>
 
   <!-- Dedicated 3D Isometric Pedestal Well -->
-  <rect x="474" y="60" width="88" height="104" rx="12" fill="#080a0f" stroke="#1f2430" stroke-width="1"/>
-  <polygon points="490.29,118.0 518.0,134.0 518.0,138.0 490.29,122.0" fill="#0f172a" stroke="#10b981" stroke-width="0.8" stroke-linejoin="round"/>
-<polygon points="518.0,134.0 545.71,118.0 545.71,122.0 518.0,138.0" fill="#090d16" stroke="#10b981" stroke-width="0.8" stroke-linejoin="round"/>
-<polygon points="518.0,102.0 545.71,118.0 518.0,134.0 490.29,118.0" fill="#1e293b" stroke="#10b981" stroke-width="0.8" stroke-linejoin="round"/><polygon points="498.95,111.0 518.0,122.0 518.0,126.0 498.95,115.0" fill="#047857" stroke="#10b981" stroke-width="0.8" stroke-linejoin="round"/>
-<polygon points="518.0,122.0 537.05,111.0 537.05,115.0 518.0,126.0" fill="#064e3b" stroke="#10b981" stroke-width="0.8" stroke-linejoin="round"/>
-<polygon points="518.0,100.0 537.05,111.0 518.0,122.0 498.95,111.0" fill="#065f46" stroke="#10b981" stroke-width="0.8" stroke-linejoin="round"/><polygon points="507.61,102.0 518.0,108.0 518.0,114.0 507.61,108.0" fill="#059669" stroke="#ecfdf5" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="518.0,108.0 528.39,102.0 528.39,108.0 518.0,114.0" fill="#047857" stroke="#ecfdf5" stroke-width="0.7" stroke-linejoin="round"/>
-<polygon points="518.0,96.0 528.39,102.0 518.0,108.0 507.61,102.0" fill="#10b981" stroke="#ecfdf5" stroke-width="0.7" stroke-linejoin="round"/>
+  <rect x="472" y="58" width="88" height="104" rx="12" fill="#111827" stroke="#1e293b" stroke-width="1"/>
+  <polygon points="490.02,116.0 516.0,131.0 516.0,135.0 490.02,120.0" fill="#0f172a" stroke="#334155" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="516.0,131.0 541.98,116.0 541.98,120.0 516.0,135.0" fill="#090d16" stroke="#334155" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="516.0,101.0 541.98,116.0 516.0,131.0 490.02,116.0" fill="#1e293b" stroke="#334155" stroke-width="0.8" stroke-linejoin="round"/><polygon points="498.68,109.0 516.0,119.0 516.0,123.0 498.68,113.0" fill="#172554" stroke="#60a5fa" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="516.0,119.0 533.32,109.0 533.32,113.0 516.0,123.0" fill="#0f172a" stroke="#60a5fa" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="516.0,99.0 533.32,109.0 516.0,119.0 498.68,109.0" fill="#1e3a8a" stroke="#60a5fa" stroke-width="0.8" stroke-linejoin="round"/><polygon points="507.34,100.0 516.0,105.0 516.0,111.0 507.34,106.0" fill="#2563eb" stroke="#f8fafc" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="516.0,105.0 524.66,100.0 524.66,106.0 516.0,111.0" fill="#1e3a8a" stroke="#f8fafc" stroke-width="0.7" stroke-linejoin="round"/>
+<polygon points="516.0,95.0 524.66,100.0 516.0,105.0 507.34,100.0" fill="#60a5fa" stroke="#f8fafc" stroke-width="0.7" stroke-linejoin="round"/>
 
   <!-- Divider -->
-  <line x1="28" y1="182" x2="562" y2="182" stroke="#1f2430" stroke-width="1"/>
+  <line x1="28" y1="180" x2="562" y2="180" stroke="#1e293b" stroke-width="1"/>
 
   <!-- Stack Pills -->
   
-              <rect x="28" y="200" width="63" height="24" rx="6" fill="#161922" stroke="#27272a" stroke-width="1"/>
-              <text x="60" y="216" text-anchor="middle" fill="#d4d4d8" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500">Python</text>
+              <rect x="28" y="198" width="63" height="24" rx="6" fill="#111827" stroke="#1e293b" stroke-width="1"/>
+              <text x="60" y="214" text-anchor="middle" fill="#cbd5e1" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="10" font-weight="500">Python</text>
             
-              <rect x="99" y="200" width="92" height="24" rx="6" fill="#161922" stroke="#27272a" stroke-width="1"/>
-              <text x="145" y="216" text-anchor="middle" fill="#d4d4d8" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500">TensorFlow</text>
+              <rect x="99" y="198" width="92" height="24" rx="6" fill="#111827" stroke="#1e293b" stroke-width="1"/>
+              <text x="145" y="214" text-anchor="middle" fill="#cbd5e1" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="10" font-weight="500">TensorFlow</text>
             
-              <rect x="199" y="200" width="85" height="24" rx="6" fill="#161922" stroke="#27272a" stroke-width="1"/>
-              <text x="242" y="216" text-anchor="middle" fill="#d4d4d8" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500">Keras CNN</text>
+              <rect x="199" y="198" width="85" height="24" rx="6" fill="#111827" stroke="#1e293b" stroke-width="1"/>
+              <text x="242" y="214" text-anchor="middle" fill="#cbd5e1" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="10" font-weight="500">Keras CNN</text>
             
-              <rect x="292" y="200" width="63" height="24" rx="6" fill="#161922" stroke="#27272a" stroke-width="1"/>
-              <text x="324" y="216" text-anchor="middle" fill="#d4d4d8" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500">TFLite</text>
+              <rect x="292" y="198" width="63" height="24" rx="6" fill="#111827" stroke="#1e293b" stroke-width="1"/>
+              <text x="324" y="214" text-anchor="middle" fill="#cbd5e1" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="10" font-weight="500">TFLite</text>
             
-              <rect x="363" y="200" width="63" height="24" rx="6" fill="#161922" stroke="#27272a" stroke-width="1"/>
-              <text x="395" y="216" text-anchor="middle" fill="#d4d4d8" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500">OpenCV</text>
+              <rect x="363" y="198" width="63" height="24" rx="6" fill="#111827" stroke="#1e293b" stroke-width="1"/>
+              <text x="395" y="214" text-anchor="middle" fill="#cbd5e1" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace" font-size="10" font-weight="500">OpenCV</text>
             
 </svg>

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="100%" height="100%">
+  <defs>
+    <linearGradient id="expBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07090d"/>
+      <stop offset="100%" stop-color="#0b0e15"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="366" rx="18" fill="url(#expBg)" stroke="#27272a" stroke-width="1.2"/>
+
+  <!-- Left Column: Industry Track Record -->
+  <g transform="translate(42, 38)">
+    <text x="0" y="0" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="1.2">CAREER TRACK RECORD  ·  PRODUCTION ENGINEERING</text>
+    <text x="0" y="26" fill="#fafafa" font-family="'Space Grotesk', 'Inter', sans-serif" font-size="22" font-weight="800">Industry Experience</text>
+
+    <line x1="12" y1="54" x2="12" y2="288" stroke="#27272a" stroke-width="2"/>
+
+    <!-- Role 1 -->
+    <g transform="translate(0, 50)">
+      <circle cx="12" cy="12" r="6" fill="#090d16" stroke="#38bdf8" stroke-width="2.5"/>
+      <rect x="32" y="-4" width="510" height="82" rx="12" fill="#10131a" stroke="#27272a" stroke-width="1"/>
+      <text x="48" y="18" fill="#fafafa" font-family="'Space Grotesk', sans-serif" font-size="14.5" font-weight="700">Back End Developer  ·  Sonasoft IT Services LLC</text>
+      <text x="404" y="18" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600">FEB 2026 - JUN 2026</text>
+      <text x="48" y="40" fill="#a1a1aa" font-family="'Inter', sans-serif" font-size="12" font-weight="400">Engineered Laravel 11 enterprise REST APIs, Syirkah profit-sharing logic,</text>
+      <text x="48" y="58" fill="#a1a1aa" font-family="'Inter', sans-serif" font-size="12" font-weight="400">and modular Content Resources APIs with strict form-request validation.</text>
+    </g>
+
+    <!-- Role 2 -->
+    <g transform="translate(0, 144)">
+      <circle cx="12" cy="12" r="6" fill="#090d16" stroke="#10b981" stroke-width="2.5"/>
+      <rect x="32" y="-4" width="510" height="82" rx="12" fill="#10131a" stroke="#27272a" stroke-width="1"/>
+      <text x="48" y="18" fill="#fafafa" font-family="'Space Grotesk', sans-serif" font-size="14.5" font-weight="700">Backend Web Developer  ·  PT. Royale Essence Indonesia</text>
+      <text x="454" y="18" fill="#10b981" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600">INTERNSHIP</text>
+      <text x="48" y="40" fill="#a1a1aa" font-family="'Inter', sans-serif" font-size="12" font-weight="400">Built end-to-end Laravel e-commerce backend integrating payment gateways,</text>
+      <text x="48" y="58" fill="#a1a1aa" font-family="'Inter', sans-serif" font-size="12" font-weight="400">KiriminAja volumetric shipping &amp; AWB, Watzap.id API, and Brevo DKIM/SPF.</text>
+    </g>
+
+    <!-- Role 3 -->
+    <g transform="translate(0, 238)">
+      <circle cx="12" cy="12" r="6" fill="#090d16" stroke="#71717a" stroke-width="2.5"/>
+      <rect x="32" y="-4" width="510" height="72" rx="12" fill="#10131a" stroke="#27272a" stroke-width="1"/>
+      <text x="48" y="18" fill="#fafafa" font-family="'Space Grotesk', sans-serif" font-size="14.5" font-weight="700">Operations &amp; LAN Intern  ·  PT POS Indonesia (Persero)</text>
+      <text x="404" y="18" fill="#a1a1aa" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600">OCT 2021 - DEC 2021</text>
+      <text x="48" y="40" fill="#a1a1aa" font-family="'Inter', sans-serif" font-size="12" font-weight="400">Handled logistics data operations, office LAN maintenance, and staff IT support.</text>
+    </g>
+  </g>
+
+  <!-- Right Column: Education, Awards & Certifications -->
+  <g transform="translate(618, 38)">
+    <text x="0" y="0" fill="#10b981" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="1.2">ACADEMIC &amp; CREDENTIALS  ·  VERIFIED MILESTONES</text>
+    <text x="0" y="26" fill="#fafafa" font-family="'Space Grotesk', 'Inter', sans-serif" font-size="22" font-weight="800">Education, Honors &amp; Certifications</text>
+
+    <!-- Card 1: University -->
+    <g transform="translate(0, 46)">
+      <rect x="0" y="4" width="540" height="78" rx="12" fill="#040507" stroke="#0284c7" stroke-width="1" stroke-opacity="0.5"/>
+      <rect x="0" y="0" width="540" height="78" rx="12" fill="#10131a" stroke="#27272a" stroke-width="1"/>
+      <text x="20" y="24" fill="#fafafa" font-family="'Space Grotesk', sans-serif" font-size="15" font-weight="700">Universitas Nasional Pasim  ·  Informatics Engineering</text>
+      <rect x="418" y="8" width="106" height="22" rx="6" fill="#131c2e" stroke="#38bdf8" stroke-width="0.8"/>
+      <text x="471" y="23" text-anchor="middle" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">GPA 3.82 / 4.00</text>
+      <text x="20" y="46" fill="#a1a1aa" font-family="'Inter', sans-serif" font-size="12" font-weight="400">Full Programming Scholarship recipient in Bandung, Indonesia. Focused on</text>
+      <text x="20" y="64" fill="#a1a1aa" font-family="'Inter', sans-serif" font-size="12" font-weight="400">distributed backend architecture, mobile engineering, and applied machine learning.</text>
+    </g>
+
+    <!-- Card 2: National Award -->
+    <g transform="translate(0, 138)">
+      <rect x="0" y="4" width="540" height="68" rx="12" fill="#040507" stroke="#059669" stroke-width="1" stroke-opacity="0.5"/>
+      <rect x="0" y="0" width="540" height="68" rx="12" fill="#10131a" stroke="#27272a" stroke-width="1"/>
+      <text x="20" y="24" fill="#fafafa" font-family="'Space Grotesk', sans-serif" font-size="15" font-weight="700">1st Place Winner  ·  National MIPA SDGs 2024 (Universitas Jambi)</text>
+      <text x="20" y="46" fill="#a1a1aa" font-family="'Inter', sans-serif" font-size="12" font-weight="400">Awarded 1st place nationally for GreenV, an integrated digital waste management</text>
+      <text x="20" y="61" fill="#a1a1aa" font-family="'Inter', sans-serif" font-size="12" font-weight="400">and sustainable community recycling reward platform.</text>
+    </g>
+
+    <!-- Card 3: Certifications Grid -->
+    <g transform="translate(0, 220)">
+      <rect x="0" y="4" width="540" height="86" rx="12" fill="#040507" stroke="#27272a" stroke-width="1"/>
+      <rect x="0" y="0" width="540" height="86" rx="12" fill="#10131a" stroke="#27272a" stroke-width="1"/>
+      <text x="20" y="22" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.8">OFFICIAL TECHNICAL CERTIFICATIONS</text>
+      <text x="20" y="44" fill="#e4e4e7" font-family="'Inter', sans-serif" font-size="12" font-weight="600">• Cisco Networking Academy:</text>
+      <text x="195" y="44" fill="#a1a1aa" font-family="'Inter', sans-serif" font-size="12">CCNA (Intro to Networks) &amp; Linux Essentials</text>
+      <text x="20" y="62" fill="#e4e4e7" font-family="'Inter', sans-serif" font-size="12" font-weight="600">• Oracle Academy:</text>
+      <text x="135" y="62" fill="#a1a1aa" font-family="'Inter', sans-serif" font-size="12">Database Design &amp; Programming with SQL</text>
+      <text x="20" y="79" fill="#e4e4e7" font-family="'Inter', sans-serif" font-size="12" font-weight="600">• Cloud &amp; Engineering:</text>
+      <text x="162" y="79" fill="#a1a1aa" font-family="'Inter', sans-serif" font-size="12">Cloud Technical Series (OnBoard), Alibaba Cloud &amp; Dicoding</text>
+    </g>
+  </g>
+</svg>

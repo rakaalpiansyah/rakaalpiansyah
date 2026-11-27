@@ -1,0 +1,60 @@
+name: Update Realtime Telemetry
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-telemetry.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-telemetry
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify METRICS_TOKEN secret
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          if [ -z "$METRICS_TOKEN" ]; then
+            echo "::error::METRICS_TOKEN secret is missing. Add a PAT with repo and read:user scopes in Repository Secrets."
+            exit 1
+          fi
+
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Generate realtime telemetry SVG
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python scripts/generate_telemetry.py
+
+      - name: Commit and push updated telemetry SVG
+        run: |
+          if git diff --quiet assets/telemetry-3d.svg; then
+            echo "No telemetry changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/telemetry-3d.svg
+          git commit -m "chore(telemetry): update realtime 3D telemetry & streak"
+          git push

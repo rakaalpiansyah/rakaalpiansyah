@@ -1,5 +1,9 @@
+import tempfile
 import unittest
 import xml.etree.ElementTree as ET
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+from scripts.generate_telemetry import fetch_github_data, main, run_generation
 from scripts.telemetry_metrics import (
     LanguageCategory,
     StreakStats,
@@ -152,6 +156,87 @@ class TestTelemetrySvg(unittest.TestCase):
         ET.fromstring(svg)
         self.assertIn("1 Day", svg)
         self.assertIsNone(extract_existing_hash("<svg></svg>"))
+
+
+class TestGenerateTelemetry(unittest.TestCase):
+    def test_missing_token_fails_without_modifying_output(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            out = Path(tmp) / "telemetry.svg"
+            out.write_text("KEEP_ME", encoding="utf-8")
+            rc = main(["--output", str(out), "--token-env", "NON_EXISTENT_TEST_TOKEN_XYZ"])
+            self.assertNotEqual(rc, 0)
+            self.assertEqual(out.read_text(encoding="utf-8"), "KEEP_ME")
+
+    def test_graphql_pagination_and_error_handling(self):
+        calls = []
+
+        def fake_graphql(token, query, variables):
+            calls.append(variables)
+            if variables.get("cursor") is None and "createdAt" in query:
+                return {
+                    "data": {
+                        "viewer": {
+                            "createdAt": "2025-05-01T00:00:00Z",
+                            "repositories": {
+                                "pageInfo": {"hasNextPage": True, "endCursor": "C1"},
+                                "nodes": [{"name": "r1", "isPrivate": False, "languages": {"edges": []}}],
+                            },
+                            "contributionsCollection": {
+                                "contributionCalendar": {"totalContributions": 1, "weeks": []}
+                            },
+                        }
+                    }
+                }
+            if variables.get("cursor") == "C1":
+                return {
+                    "data": {
+                        "viewer": {
+                            "repositories": {
+                                "pageInfo": {"hasNextPage": False, "endCursor": None},
+                                "nodes": [{"name": "r2", "isPrivate": True, "languages": {"edges": []}}],
+                            }
+                        }
+                    }
+                }
+            return {
+                "data": {
+                    "viewer": {
+                        "contributionsCollection": {
+                            "contributionCalendar": {"totalContributions": 2, "weeks": []}
+                        }
+                    }
+                }
+            }
+
+        repos, yearly, cal52 = fetch_github_data("tok", graphql_fn=fake_graphql, now_year=2026)
+        self.assertEqual([r["name"] for r in repos], ["r1", "r2"])
+        self.assertEqual(len(yearly), 2)
+        self.assertEqual(cal52["totalContributions"], 1)
+
+        def err_graphql(token, query, variables):
+            return {"errors": [{"message": "Bad credentials"}]}
+
+        with self.assertRaises(RuntimeError):
+            fetch_github_data("bad", graphql_fn=err_graphql, now_year=2026)
+
+    def test_run_generation_skips_write_on_same_hash_and_writes_on_change_or_force(self):
+        def fake_fetch(token, now_year):
+            repos = [{"name": "a", "isPrivate": True, "languages": {"edges": [{"size": 100, "node": {"name": "Python"}}]}}]
+            days = [{"date": "2026-11-27", "contributionCount": 3, "weekday": 5}]
+            cal = {"totalContributions": 3, "weeks": [{"contributionDays": days}]}
+            return repos, [cal], cal
+
+        with tempfile.TemporaryDirectory() as tmp:
+            out = Path(tmp) / "telemetry.svg"
+            wib = timezone(timedelta(hours=7))
+            t1 = datetime(2026, 11, 27, 16, 0, tzinfo=wib)
+            t2 = datetime(2026, 11, 27, 19, 0, tzinfo=wib)
+            self.assertTrue(run_generation(out, "tok", force=False, now_wib=t1, fetch_fn=fake_fetch))
+            first_content = out.read_text(encoding="utf-8")
+            self.assertFalse(run_generation(out, "tok", force=False, now_wib=t2, fetch_fn=fake_fetch))
+            self.assertEqual(out.read_text(encoding="utf-8"), first_content)
+            self.assertTrue(run_generation(out, "tok", force=True, now_wib=t2, fetch_fn=fake_fetch))
+            self.assertIn("19:00 WIB", out.read_text(encoding="utf-8"))
 
 
 if __name__ == "__main__":
